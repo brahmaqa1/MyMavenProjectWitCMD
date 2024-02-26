@@ -1,0 +1,18 @@
+2024-02-11 12:10:31 DEBUG sita:18 - CreateOrder -started
+2024-02-11 12:10:31 DEBUG sita:21 - 1.Open chrome browser
+2024-02-11 12:10:31 INFO  sita:26 -  info msg1
+2024-02-11 12:10:31 ERROR sita:30 - error msg
+2024-02-11 12:12:18 DEBUG sita:21 - Log4jBasics.TestBase@37313c65
+2024-02-11 12:12:18 DEBUG sita:24 - 1.Open chrome browser
+2024-02-11 12:12:18 DEBUG sita:27 - 2.Enter user name
+2024-02-11 12:12:18 DEBUG sita:30 - 3.Enter pwd
+2024-02-11 12:12:18 DEBUG sita:33 - 4.click login button
+2024-02-11 12:12:18 DEBUG sita:36 - 5.Verify Home page is displayed
+2024-02-11 12:12:18 DEBUG sita:38 - 6.new log msgs 
+2024-02-11 12:13:05 DEBUG sita:21 - debug msgs-1
+2024-02-11 12:13:05 DEBUG sita:24 - 1.Open chrome browser
+2024-02-11 12:13:05 DEBUG sita:27 - 2.Enter user name
+2024-02-11 12:13:05 DEBUG sita:30 - 3.Enter pwd
+2024-02-11 12:13:05 DEBUG sita:33 - 4.click login button
+2024-02-11 12:13:05 DEBUG sita:36 - 5.Verify Home page is displayed
+2024-02-11 12:13:05 DEBUG sita:38 - 6.new log msgs 
