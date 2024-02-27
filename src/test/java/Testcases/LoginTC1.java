@@ -19,7 +19,9 @@ public class LoginTC1
 	{
 
 //		// open browser		
-//		// open url in browser
+//		// open url in browser  -- modified by Tester-1
+                 // add Line1 
+		  // add line2
 //		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
 //
 //		//		//open chrome browser
